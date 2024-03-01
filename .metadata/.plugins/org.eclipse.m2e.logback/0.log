@@ -1,0 +1,8 @@
+2024-02-16 22:10:02,291 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-02-27 15:08:26,806 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-27 15:08:27,844 [Worker-10: Updating Maven Dependencies] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-02-29 00:18:57,791 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-02-29 00:18:57,841 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@4b843f6c{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@1fbf0d87{STARTED}}
+2024-02-29 00:18:57,842 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-02-29 00:18:57,865 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6d119bae{HTTP/1.1, (http/1.1)}{127.0.0.1:60598}
+2024-02-29 00:18:57,870 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@14e15e6b{STARTING}[12.0.3,sto=0] @119502719ms
